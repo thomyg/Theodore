@@ -1,0 +1,50 @@
+C:\Users\tgo\Source\Repos\Theodore\Theodore\bin\Bot Application.dll.config
+C:\Users\tgo\Source\Repos\Theodore\Theodore\bin\Bot Application.dll
+C:\Users\tgo\Source\Repos\Theodore\Theodore\bin\Bot Application.pdb
+C:\Users\tgo\Source\Repos\Theodore\Theodore\bin\Autofac.dll
+C:\Users\tgo\Source\Repos\Theodore\Theodore\bin\Chronic.dll
+C:\Users\tgo\Source\Repos\Theodore\Theodore\bin\Microsoft.Bot.Builder.Autofac.dll
+C:\Users\tgo\Source\Repos\Theodore\Theodore\bin\Microsoft.Bot.Builder.dll
+C:\Users\tgo\Source\Repos\Theodore\Theodore\bin\Microsoft.Bot.Connector.dll
+C:\Users\tgo\Source\Repos\Theodore\Theodore\bin\Microsoft.Bot.Connector.Teams.dll
+C:\Users\tgo\Source\Repos\Theodore\Theodore\bin\Microsoft.IdentityModel.Protocol.Extensions.dll
+C:\Users\tgo\Source\Repos\Theodore\Theodore\bin\Microsoft.Rest.ClientRuntime.dll
+C:\Users\tgo\Source\Repos\Theodore\Theodore\bin\Microsoft.WindowsAzure.Configuration.dll
+C:\Users\tgo\Source\Repos\Theodore\Theodore\bin\Newtonsoft.Json.dll
+C:\Users\tgo\Source\Repos\Theodore\Theodore\bin\Polly.dll
+C:\Users\tgo\Source\Repos\Theodore\Theodore\bin\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\tgo\Source\Repos\Theodore\Theodore\bin\System.Net.Http.Formatting.dll
+C:\Users\tgo\Source\Repos\Theodore\Theodore\bin\System.Web.Http.dll
+C:\Users\tgo\Source\Repos\Theodore\Theodore\bin\System.Web.Http.WebHost.dll
+C:\Users\tgo\Source\Repos\Theodore\Theodore\bin\Autofac.xml
+C:\Users\tgo\Source\Repos\Theodore\Theodore\bin\Microsoft.Bot.Builder.xml
+C:\Users\tgo\Source\Repos\Theodore\Theodore\bin\Microsoft.Bot.Builder.Autofac.xml
+C:\Users\tgo\Source\Repos\Theodore\Theodore\bin\Microsoft.Bot.Connector.xml
+C:\Users\tgo\Source\Repos\Theodore\Theodore\bin\Microsoft.Bot.Connector.Teams.xml
+C:\Users\tgo\Source\Repos\Theodore\Theodore\bin\Microsoft.IdentityModel.Protocol.Extensions.xml
+C:\Users\tgo\Source\Repos\Theodore\Theodore\bin\Microsoft.Rest.ClientRuntime.xml
+C:\Users\tgo\Source\Repos\Theodore\Theodore\bin\Microsoft.WindowsAzure.Configuration.xml
+C:\Users\tgo\Source\Repos\Theodore\Theodore\bin\Newtonsoft.Json.xml
+C:\Users\tgo\Source\Repos\Theodore\Theodore\bin\Polly.pdb
+C:\Users\tgo\Source\Repos\Theodore\Theodore\bin\Polly.xml
+C:\Users\tgo\Source\Repos\Theodore\Theodore\bin\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\tgo\Source\Repos\Theodore\Theodore\bin\System.Net.Http.Formatting.xml
+C:\Users\tgo\Source\Repos\Theodore\Theodore\bin\System.Web.Http.xml
+C:\Users\tgo\Source\Repos\Theodore\Theodore\bin\System.Web.Http.WebHost.xml
+C:\Users\tgo\Source\Repos\Theodore\Theodore\bin\ar\Microsoft.Bot.Builder.resources.dll
+C:\Users\tgo\Source\Repos\Theodore\Theodore\bin\cs\Microsoft.Bot.Builder.resources.dll
+C:\Users\tgo\Source\Repos\Theodore\Theodore\bin\de-dE\Microsoft.Bot.Builder.resources.dll
+C:\Users\tgo\Source\Repos\Theodore\Theodore\bin\en\Microsoft.Bot.Builder.resources.dll
+C:\Users\tgo\Source\Repos\Theodore\Theodore\bin\es\Microsoft.Bot.Builder.resources.dll
+C:\Users\tgo\Source\Repos\Theodore\Theodore\bin\fa\Microsoft.Bot.Builder.resources.dll
+C:\Users\tgo\Source\Repos\Theodore\Theodore\bin\fr\Microsoft.Bot.Builder.resources.dll
+C:\Users\tgo\Source\Repos\Theodore\Theodore\bin\it\Microsoft.Bot.Builder.resources.dll
+C:\Users\tgo\Source\Repos\Theodore\Theodore\bin\ja\Microsoft.Bot.Builder.resources.dll
+C:\Users\tgo\Source\Repos\Theodore\Theodore\bin\nl\Microsoft.Bot.Builder.resources.dll
+C:\Users\tgo\Source\Repos\Theodore\Theodore\bin\pt-BR\Microsoft.Bot.Builder.resources.dll
+C:\Users\tgo\Source\Repos\Theodore\Theodore\bin\ru\Microsoft.Bot.Builder.resources.dll
+C:\Users\tgo\Source\Repos\Theodore\Theodore\bin\zh-hans\Microsoft.Bot.Builder.resources.dll
+C:\Users\tgo\Source\Repos\Theodore\Theodore\obj\Debug\Theodore.csprojResolveAssemblyReference.cache
+C:\Users\tgo\Source\Repos\Theodore\Theodore\obj\Debug\Theodore.csproj.CoreCompileInputs.cache
+C:\Users\tgo\Source\Repos\Theodore\Theodore\obj\Debug\Bot Application.dll
+C:\Users\tgo\Source\Repos\Theodore\Theodore\obj\Debug\Bot Application.pdb

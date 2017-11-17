@@ -1,0 +1,38 @@
+{
+    "$schema": "https://statics.teams.microsoft.com/sdk/v1.0/manifest/MicrosoftTeams.schema.json", 
+    "manifestVersion": "1.0",
+    "version": "1.0.0",
+    "id": "489c852f-4d93-408b-9c52-2f54e679c781",
+    "packageName": "net.solvion.bots",
+    "developer": {
+        "name": "Solvion",
+        "websiteUrl": "https://www.microsoft.com",
+        "privacyUrl": "https://www.microsoft.com/privacy",
+        "termsOfUseUrl": "https://www.microsoft.com/termsofuse"
+    },
+    "name": {
+        "short": "Theodore - The Teams Bot"
+    },
+    "description": {
+        "short": "This is a sample bot manifest",
+        "full": "This is a sample bot manifest that has the bare minimum you need for a bot, which will work in Teams and Personal scopes."
+    },
+    "icons": {
+        "outline": "solvion20x20.png",
+        "color": "solvion96x96.png"
+    },
+    "accentColor": "#60A18E",
+    "bots": [
+        {
+            "botId": "25dace84-60cc-4ef7-a53b-1022af23cd7e",
+            "scopes": [
+                "team",
+                "personal"
+            ]
+        }
+    ],
+    "permissions": [
+        "identity",
+        "messageTeamMembers"
+    ]
+}
